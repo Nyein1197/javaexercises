@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ex37
+comment0.text=\r\n\ \u30AF\u30E9\u30B9\ Ex37\ \u306E\u6CE8\u91C8\u3092\u3053\u3053\u306B\u66F8\u304D\u307E\u3059.\r\n\ \r\n\ @author\ (Nyein)\r\n\ @version\ (2019/9/6)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a
+comment2.target=void\ printArray(java.lang.String[])
+numComments=3
