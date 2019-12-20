@@ -9,8 +9,8 @@ public class EX4{
    public static void main(String[]args){
        int[]index = {1,2,3};
        for(int indexs:index){
-           if(
-       System.out.print(index)   
+           
+       System.out.print(index);   
     }
    }
    
